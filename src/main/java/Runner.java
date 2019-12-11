@@ -1,4 +1,4 @@
-package java;
+package main.java;
 
 public class Runner implements Printer {
     public static void main(String[] args) {

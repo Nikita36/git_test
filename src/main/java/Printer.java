@@ -1,4 +1,4 @@
-package java;
+package main.java;
 
 public  interface  Printer {
     default String print(){
